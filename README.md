@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Samuel Muleta 👋
 
-<!--
-**samuelmuleta3535-ops/samuelmuleta3535-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | Aspiring Full-Stack Developer
 
-Here are some ideas to get you started:
+I am a fourth-year Computer Science student at **Ambo University, Hachalu Hundessa Campus**, expected to graduate in 2027.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about software development, full-stack web development, and computer networking. I enjoy building practical projects, learning new technologies, and using technology to solve real-world problems.
+
+### 💻 Technical Interests
+- Full-Stack Web Development
+- Frontend and Backend Development
+- Software Engineering
+- Computer Networking
+
+### 🚀 Projects
+- Academic Staff Evaluation System
+- Undergraduate Project Management System
+- Personal Portfolio 
+### 📫 Connect With Me
+- **Email:** samuelmuleta3535@gmail.com
+- **Telegram:** [@Samuel](https://t.me/Samuel)
+- **Portfolio:** [Visit My Website](https://samuel-muleta-portfolio.vercel.app/)
